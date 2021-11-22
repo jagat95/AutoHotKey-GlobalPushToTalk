@@ -34,6 +34,7 @@ __To Install__
 ### Errors & Issues
 - If you encounter key not detecting or conflicting with other stuff please remember. **This application need to be run as admin to function properly**
 - Also the current key in script is Caps Lock and that key gets disabled completely once this script is running in background. This behaviour can be changed but I like it this way currently.
+- Remember to keep other applications as Always Recording / Voice detection / Continous activity and let this script control to PushToTalk behaviour. e.g. In Discord do not use Push To talk and leave it at Voice Activation.
 
 ### Support
 This script I wrote for personal usage and therefore hasnt been generalized for customisation etc. nor it is written with clean code in mind. 
