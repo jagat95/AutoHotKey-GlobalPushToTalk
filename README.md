@@ -37,5 +37,8 @@ __To Install__
 
 ### Support
 This script I wrote for personal usage and therefore hasnt been generalized for customisation etc. nor it is written with clean code in mind. 
+
 I'll probably update it if future to improve code structure and performance improvement.
+
 It is relatively easy to edit to your use case, but feel free to ask if you are going to utlize this and need any help to setup/edit/run this.
+
