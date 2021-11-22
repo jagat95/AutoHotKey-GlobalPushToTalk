@@ -6,7 +6,7 @@
 
 > You have Meeting app like ``Microsoft Teams`` which doesnt have dedicated Push to Talk yet.
 
-> You have a online multiplayer game with voice chat but it does not support Push To Talk controlled keys.
+> You have an online multiplayer game with voice chat but it does not support Push To Talk controlled keys.
 
 ### History
 
